@@ -991,7 +991,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Programm Grösse"
+            "value" : "Programmgröße"
           }
         },
         "fr" : {
@@ -1225,7 +1225,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Programm"
+            "value" : "Programme"
           }
         },
         "fr" : {
@@ -2022,7 +2022,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schliessen"
+            "value" : "Schließen"
           }
         },
         "fr" : {
@@ -2081,7 +2081,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schliesse nach dem Entfernen"
+            "value" : "Nach der Deinstallation schließen"
           }
         },
         "fr" : {
@@ -2199,7 +2199,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erledigt"
+            "value" : "Erledigt 🚀"
           }
         },
         "fr" : {
@@ -2736,7 +2736,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entwwicklung"
+            "value" : "Entwicklung"
           }
         },
         "fr" : {
@@ -3424,7 +3424,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ausschliessen"
+            "value" : "Ausschließen"
           }
         },
         "fr" : {
@@ -3600,7 +3600,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportiere Dateipfad…"
+            "value" : "Dateipfade exportieren…"
           }
         },
         "fr" : {
@@ -4236,7 +4236,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Allgemeine"
+            "value" : "Allgemein"
           }
         },
         "fr" : {
@@ -4471,7 +4471,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aufräumen von Homebrew nach der Deinstallation"
+            "value" : "Homebrew nach der Deinstallation aufräumen"
           }
         },
         "fr" : {
@@ -4816,7 +4816,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Installations Datum:"
+            "value" : "Installationsdatum:"
           }
         },
         "fr" : {
@@ -6399,7 +6399,14 @@
       }
     },
     "Navigate To" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Navigieren zu"
+          }
+        }
+      }
     },
     "Never" : {
       "extractionState" : "manual",
@@ -7508,7 +7515,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Berechtigung Status"
+            "value" : "Berechtigungsstatus"
           }
         },
         "fr" : {
@@ -7567,7 +7574,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Berechtigung"
+            "value" : "Berechtigungen"
           }
         },
         "fr" : {
@@ -7685,7 +7692,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Plist Datei"
+            "value" : ".plist Datei"
           }
         },
         "fr" : {
@@ -8038,7 +8045,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erneuern"
+            "value" : "Aktualisieren"
           }
         },
         "fr" : {
@@ -8097,7 +8104,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erneuere Programme"
+            "value" : "Programme aktualisiere"
           }
         },
         "fr" : {
@@ -8156,7 +8163,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erneuere Programme (⌘+R)"
+            "value" : "Programme aktualisiere (⌘+R)"
           }
         },
         "fr" : {
@@ -8450,7 +8457,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neu scannen"
+            "value" : "Erneut durchsuchen"
           }
         },
         "fr" : {
@@ -8627,7 +8634,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grösse zurücksetzten"
+            "value" : "Größe zurücksetzen"
           }
         },
         "fr" : {
@@ -9107,7 +9114,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Durchsuche das Datei System"
+            "value" : "Durchsuche das Dateisystem"
           }
         },
         "fr" : {
@@ -9454,7 +9461,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeige Programm Liste beim Start"
+            "value" : "Zeige Programmliste beim Start"
           }
         },
         "fr" : {
@@ -9630,7 +9637,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grösse"
+            "value" : "Größe"
           }
         },
         "fr" : {
@@ -9689,7 +9696,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Programm-Liste alphabetisch nach Namen oder nach Grösse sortieren"
+            "value" : "Programm-Liste alphabetisch nach Namen oder nach Größe sortieren"
           }
         },
         "fr" : {
@@ -11153,7 +11160,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deinstallieren Warnung "
+            "value" : "Deinstallationswarnung"
           }
         },
         "fr" : {
@@ -11212,7 +11219,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deinstallieren Pearcleaner"
+            "value" : "Pearcleaner deinstallieren"
           }
         },
         "fr" : {
@@ -11348,6 +11355,12 @@
     "Update Available" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update verfügbar"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11401,6 +11414,12 @@
     "Update Available 🥳" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update verfügbar 🥳"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12000,7 +12019,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeige Probleme"
+            "value" : "Probleme zeigenn"
           }
         },
         "fr" : {
